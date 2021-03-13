@@ -1,2 +1,2 @@
 # Enki
-Data science skills learned through the Enki mobile app. 
+Data science skill exercises on the Enki mobile app.
