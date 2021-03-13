@@ -1,2 +1,2 @@
 # Enki
-Practical data science skill exercises on the Enki mobile app.
+Practical data science skill exercises from Enki.
